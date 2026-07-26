@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+
+    <color name="green1">#A7C957</color>
+
+    <color name="green2">#4E7A12</color>
+
+    <color name="glass">#30FFFFFF</color>
+
+    <color name="glassStroke">#88FFFFFF</color>
+
+    <color name="hint">#D9FFFFFF</color>
+
+</resources>
