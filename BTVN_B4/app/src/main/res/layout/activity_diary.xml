@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    android:background="#F8F1E7">
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical"
+
+        android:padding="24dp">
+
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+
+            android:text="My Diary"
+
+            android:textSize="34sp"
+
+            android:textStyle="bold"
+
+            android:textColor="#4E342E"
+
+            android:gravity="center"
+
+            android:layout_marginBottom="25dp"
+
+            android:fontFamily="@font/goudy"/>
+
+
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical"
+
+            android:padding="20dp"
+
+            android:background="@drawable/diary_background">
+
+
+
+            <TextView
+
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+
+                android:text="29 July 2026"
+
+                android:textSize="18sp"
+
+                android:textStyle="bold"
+
+                android:textColor="#795548"
+
+                android:fontFamily="@font/goudy"/>
+
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="20dp"
+
+                android:text="
+Today I wrote something important in my diary.
+
+Every day brings a new experience.
+
+Sometimes life is difficult, but every challenge helps me become stronger.
+
+I learned that small progress is still progress.
+
+I will continue learning, improving myself and following my dreams.
+
+Tomorrow will be another chance to create a better version of myself.
+
+"
+
+                android:textSize="20sp"
+
+                android:textColor="#3E2723"
+
+                android:lineSpacingExtra="10dp"
+
+                android:lineSpacingMultiplier="1.2"
+
+                android:fontFamily="@font/goudy"
+                />
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

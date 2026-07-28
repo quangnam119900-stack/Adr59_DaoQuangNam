@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <style name="Theme.BTVN_B4"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+
+        <item name="android:fontFamily">
+            @font/goudy
+        </item>
+
+
+        <item name="android:colorAccent">
+            @color/brown_primary
+        </item>
+
+
+        <item name="android:navigationBarColor">
+            @color/paper_background
+        </item>
+
+
+        <item name="android:windowLightStatusBar">
+            true
+        </item>
+
+
+        <item name="android:statusBarColor">
+            @color/paper_background
+        </item>
+
+
+    </style>
+
+
+</resources>

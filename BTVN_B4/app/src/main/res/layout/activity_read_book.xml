@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    android:background="#FAF3E0"
+
+    android:padding="24dp">
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+
+            android:text="CHAPTER 32"
+
+            android:textSize="22sp"
+
+            android:textStyle="bold"
+
+            android:textColor="#5D4037"
+
+            android:gravity="center"
+
+            android:layout_marginBottom="20dp"
+
+            android:fontFamily="@font/goudy"/>
+
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+
+            android:text="The Final Journey"
+
+            android:textSize="30sp"
+
+            android:textStyle="bold"
+
+            android:textColor="#3E2723"
+
+            android:gravity="center"
+
+            android:layout_marginBottom="30dp"
+
+            android:fontFamily="@font/goudy"/>
+
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+
+            android:text="The morning sun appeared behind the mountains.
+
+The road was quiet and peaceful.
+
+After many years of traveling, he finally understood the meaning of life.
+
+Every mistake created a valuable lesson.
+
+Every challenge helped him become stronger.
+
+The journey was not about reaching the destination.
+
+The journey was about discovering himself.
+
+Chapter 32 continued with hope and courage."
+
+            android:textSize="20sp"
+
+            android:textColor="#4E342E"
+
+            android:lineSpacingExtra="10dp"
+
+            android:lineSpacingMultiplier="1.2"
+
+            android:fontFamily="@font/goudy"/>
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>
